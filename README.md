@@ -96,6 +96,8 @@ Net Income reached a record **$112.0 billion in 2025**, supported by improved co
 
 ## Project Showcase
 
+![Power BI Project Showcase](https://github.com/RijalAHq/apple-income-statement-dashboard/blob/main/screenshot/Apple%20Income%20Statement%20(2021%E2%80%932025)-1.png)
+![Power BI Project Showcase](https://github.com/RijalAHq/apple-income-statement-dashboard/blob/main/screenshot/Apple%20Income%20Statement%20(2021%E2%80%932025)-2.png)
 
 ---
 
