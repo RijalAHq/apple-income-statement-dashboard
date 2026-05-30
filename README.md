@@ -94,6 +94,9 @@ Operating Income remained consistently strong and reached **$133.1 billion in 20
 
 Net Income reached a record **$112.0 billion in 2025**, supported by improved cost efficiency, healthy operating margins, and sustained business growth.
 
+## Project Showcase
+
+
 ---
 
 ## Author
